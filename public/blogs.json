@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover-picture": "https://i.ibb.co/dKHL1bj/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "Lorem Ipsum Dolor Sit Amet",
+      "author-name": "John Doe",
+      "author-img": "https://i.ibb.co/yXxWtBM/safar-safarov-Jq-C-VQQTl-Po-unsplash.jpg",
+      "posted-date": "2023-09-01",
+      "reading-time": "5 min",
+      "hashtags": ["#LoremIpsum", "#WebDevelopment", "#ReactJS"]
+    },
+    {
+      "id": 2,
+      "cover-picture": "https://i.ibb.co/dKHL1bj/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "Consectetur Adipiscing Elit",
+      "author-name": "Alice Smith",
+      "author-img": "https://i.ibb.co/yXxWtBM/safar-safarov-Jq-C-VQQTl-Po-unsplash.jpg",
+      "posted-date": "2023-09-03",
+      "reading-time": "7 min",
+      "hashtags": ["#WebDesign", "#UI/UX", "#CSS"]
+    },
+    {
+      "id": 3,
+      "cover-picture": "https://i.ibb.co/dKHL1bj/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "Sed Do Eiusmod Tempor Incididunt",
+      "author-name": "Bob Johnson",
+      "author-img": "https://i.ibb.co/yXxWtBM/safar-safarov-Jq-C-VQQTl-Po-unsplash.jpg",
+      "posted-date": "2023-09-05",
+      "reading-time": "10 min",
+      "hashtags": ["#JavaScript", "#Frontend", "#Development"]
+    },
+    {
+      "id": 4,
+      "cover-picture": "https://i.ibb.co/dKHL1bj/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "Ut Labore Et Dolore Magna Aliqua",
+      "author-name": "Emily Brown",
+      "author-img": "https://i.ibb.co/yXxWtBM/safar-safarov-Jq-C-VQQTl-Po-unsplash.jpg",
+      "posted-date": "2023-09-07",
+      "reading-time": "8 min",
+      "hashtags": ["#Coding", "#Programming", "#Software"]
+    },
+    {
+      "id": 5,
+      "cover-picture": "https://i.ibb.co/dKHL1bj/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "Duis Aute Irure Dolor In Reprehenderit",
+      "author-name": "Michael Wilson",
+      "author-img": "https://i.ibb.co/yXxWtBM/safar-safarov-Jq-C-VQQTl-Po-unsplash.jpg",
+      "posted-date": "2023-09-09",
+      "reading-time": "6 min",
+      "hashtags": ["#Tech", "#Innovation", "#Future"]
+    }
+  ]
+  
